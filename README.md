@@ -38,5 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Add these .env variables to your project
 
 DATABASE_URL=
+
 NEXT_PUBLIC_BACKEND_URL=
 
